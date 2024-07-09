@@ -1,0 +1,31 @@
+C:\Users\john zhou\Desktop\CSE11\cse11-pa3-starter-main>.\run.bat Open1B
+Tester Library v.3.0
+-----------------------------------
+Tests defined in the class: Open1B:
+---------------------------
+Open1B:
+---------------
+new Open1B:1(
+ this.a = new Btype:2(
+  this.naw = "NOWAY"))
+---------------
+No test methods found.
+
+C:\Users\john zhou\Desktop\CSE11\cse11-pa3-starter-main>.\run.bat Open1B
+Open1B.java:4: error: variable naw is already defined in class Btype
+    int naw;
+        ^
+Open1B.java:8: error: cannot find symbol
+        this.naw1 = naw1;
+            ^
+  symbol: variable naw1
+2 errors
+Exception in thread "main" java.lang.RuntimeException: The Open1B class could not be found.
+Please make sure to specify the name of your examples class properly (with no typos).
+        at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+        at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+        at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+        at java.base/java.lang.Class.forName0(Native Method)
+        at java.base/java.lang.Class.forName(Class.java:390)
+        at java.base/java.lang.Class.forName(Class.java:381)
+        at tester.Main.main(Main.java:228)

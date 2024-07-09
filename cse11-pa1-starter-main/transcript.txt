@@ -1,0 +1,38 @@
+// FOR PROBLEM 3
+C:\Users\john zhou\Desktop\CSE11\cse11-pa1-starter-main>.\run.bat DesignRecipeExamples 
+Tester Library v.3.0
+-----------------------------------
+Tests defined in the class: DesignRecipeExamples:
+---------------------------
+DesignRecipeExamples:
+---------------
+new DesignRecipeExamples:1(
+ this.p1p1 = 40
+ this.p1p2 = 52
+ this.p2p1 = 75
+ this.p2p2 = 300
+ this.p3p1 = 0.61
+ this.p3p2 = 0.76)
+---------------
+No test methods found.
+
+
+// FOR PROBLEM 4
+C:\Users\john zhou\Desktop\CSE11\cse11-pa1-starter-main>.\run.bat DesignRecipeExamples 
+Tester Library v.3.0
+-----------------------------------
+Tests defined in the class: DesignRecipeExamples:
+---------------------------
+DesignRecipeExamples:
+---------------
+new DesignRecipeExamples:1(
+ this.p1p1 = 40
+ this.p1p2 = 52
+ this.p2p1 = 75
+ this.p2p2 = 300
+ this.p3p1 = 0.61
+ this.p3p2 = 0.76
+ this.p4p1 = 652
+ this.p4p2 = 732)
+---------------
+No test methods found.

@@ -1,0 +1,16 @@
+C:\Users\john zhou\Desktop\CSE11\cse11-pa3-starter-main>.\run.bat Open1A
+Tester Library v.3.0
+-----------------------------------
+Tests defined in the class: Open1A:
+---------------------------
+Open1A:
+---------------
+new Open1A:1(
+ this.a = new Atype1:2(
+  this.naw = "WOW"
+  this.dontThinkSo = 7)
+ this.b = new Atype2:3(
+  this.naw = "COOL"
+  this.dontThinkSo = 5))
+---------------
+No test methods found.
